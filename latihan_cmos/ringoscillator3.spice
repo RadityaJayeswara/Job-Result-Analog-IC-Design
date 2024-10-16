@@ -1,0 +1,16 @@
+** sch_path: /home/jay_mosfet/ringoscillator/ringoscillator3.sch
+**.subckt ringoscillator3 vdd out gnd
+*.ipin vdd
+*.ipin gnd
+*.opin out
+x1 vdd out net1 gnd INVERTER_DIY
+x2 vdd net1 net2 gnd INVERTER_DIY
+x3 vdd net2 out gnd INVERTER_DIY
+**.ends
+
+* expanding   symbol:  /home/jay_mosfet/latihan_cmos/INVERTER_DIY.sym # of pins=4
+** sym_path: /home/jay_mosfet/latihan_cmos/INVERTER_DIY.sym
+** sch_path: /home/jay_mosfet/latihan_cmos/INVERTER_DIY.sch
+
+
+.end
