@@ -1,0 +1,124 @@
+magic
+tech sky130A
+magscale 1 2
+timestamp 1729184720
+<< error_s >>
+rect -223 466 -177 472
+rect -223 432 -211 466
+rect -183 454 -165 466
+rect -183 444 -177 454
+rect -183 432 -165 444
+rect -223 426 -177 432
+<< poly >>
+rect -227 466 -161 482
+rect -227 432 -211 466
+rect -177 432 -161 466
+rect -227 416 -161 432
+rect 58 -100 634 0
+<< polycont >>
+rect -211 432 -177 466
+<< locali >>
+rect -227 432 -211 466
+rect -177 432 -161 466
+<< viali >>
+rect -211 432 -177 466
+<< metal1 >>
+rect -223 466 -177 472
+rect -223 432 -211 466
+rect -223 426 -177 432
+rect -82 414 52 426
+rect 640 414 774 426
+rect -82 38 3 414
+rect 55 38 65 414
+rect -82 26 52 38
+rect 264 -27 310 126
+rect 369 38 379 414
+rect 431 38 441 414
+rect 640 38 725 414
+rect 777 38 787 414
+rect 640 26 774 38
+rect 264 -73 428 -27
+rect -82 -138 52 -126
+rect -95 -514 -85 -138
+rect -33 -514 52 -138
+rect 251 -514 261 -138
+rect 313 -514 323 -138
+rect 382 -190 428 -73
+rect 640 -136 774 -124
+rect 627 -512 637 -136
+rect 689 -512 774 -136
+rect -82 -526 52 -514
+rect 640 -524 774 -512
+<< via1 >>
+rect 3 38 55 414
+rect 379 38 431 414
+rect 725 38 777 414
+rect -85 -514 -33 -138
+rect 261 -514 313 -138
+rect 637 -512 689 -136
+<< metal2 >>
+rect -85 452 777 504
+rect -85 -138 -33 452
+rect 1 414 57 424
+rect 1 28 57 38
+rect 379 414 431 424
+rect 379 -24 431 38
+rect -85 -550 -33 -514
+rect 261 -76 431 -24
+rect 725 414 777 452
+rect 261 -138 313 -76
+rect 261 -522 313 -514
+rect 635 -136 691 -126
+rect 635 -522 691 -512
+rect 725 -550 777 38
+rect -85 -602 777 -550
+<< via2 >>
+rect 1 38 3 414
+rect 3 38 55 414
+rect 55 38 57 414
+rect 635 -512 637 -136
+rect 637 -512 689 -136
+rect 689 -512 691 -136
+<< metal3 >>
+rect -9 414 67 419
+rect -9 38 1 414
+rect 57 38 67 414
+rect -9 -12 67 38
+rect -9 -88 701 -12
+rect 625 -136 701 -88
+rect 625 -512 635 -136
+rect 691 -512 701 -136
+rect 625 -517 701 -512
+use sky130_fd_pr__nfet_01v8_4L2J9J  sky130_fd_pr__nfet_01v8_4L2J9J_0
+timestamp 1729180332
+transform 1 0 158 0 1 226
+box -158 -226 158 226
+use sky130_fd_pr__nfet_01v8_4L2J9J  sky130_fd_pr__nfet_01v8_4L2J9J_1
+timestamp 1729180332
+transform 1 0 534 0 1 226
+box -158 -226 158 226
+use sky130_fd_pr__nfet_01v8_4L2J9J  sky130_fd_pr__nfet_01v8_4L2J9J_2
+timestamp 1729180332
+transform 1 0 158 0 1 -324
+box -158 -226 158 226
+use sky130_fd_pr__nfet_01v8_4L2J9J  sky130_fd_pr__nfet_01v8_4L2J9J_3
+timestamp 1729180332
+transform 1 0 534 0 1 -324
+box -158 -226 158 226
+use sky130_fd_pr__nfet_01v8_LGC7FM  sky130_fd_pr__nfet_01v8_LGC7FM_0
+timestamp 1729183811
+transform 1 0 -15 0 1 226
+box -73 -226 73 226
+use sky130_fd_pr__nfet_01v8_LGC7FM  sky130_fd_pr__nfet_01v8_LGC7FM_1
+timestamp 1729183811
+transform 1 0 707 0 1 226
+box -73 -226 73 226
+use sky130_fd_pr__nfet_01v8_LGC7FM  sky130_fd_pr__nfet_01v8_LGC7FM_2
+timestamp 1729183811
+transform 1 0 -15 0 1 -324
+box -73 -226 73 226
+use sky130_fd_pr__nfet_01v8_LGC7FM  sky130_fd_pr__nfet_01v8_LGC7FM_3
+timestamp 1729183811
+transform 1 0 707 0 1 -324
+box -73 -226 73 226
+<< end >>
